@@ -1,4 +1,4 @@
-andrewrothstein.kubectl
+aarna_stream.kubectl
 =======================
 ![Build Status](https://github.com/andrewrothstein/ansible-kubectl/actions/workflows/build.yml/badge.svg)
 
@@ -24,7 +24,7 @@ Example Playbook
 ```yml
 - hosts: servers
   roles:
-    - andrewrothstein.kubectl
+    - aarna_stream.kubectl
 ```
 
 License
